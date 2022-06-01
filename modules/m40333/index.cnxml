@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>12.  Information Technology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40333</md:content-id>
+  <md:title>12.  Information Technology</md:title>
+  <md:abstract/>
+  <md:uuid>0bd6f3a2-e9dc-46b8-964b-4eec8b4745cb</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-419">Objectives:
+</para><para id="eip-791">To understand the role of information technology in disasters
+</para><para id="eip-458">To appreciate barriers to implementing information technologies
+</para><para id="eip-518">We discuss applications of geographical information systems, training in virtual environments for first responders, barriers to the implementation of information technologies, difficulties that arise in disaster responses, and the impacts on organizations of adopting information technologies.</para><section id="id1168459239034">
+      <title>Example</title>
+      <section id="id1168456906771">
+        <title>Jessica Porter</title>
+        <para id="id1168439634112">
+          <emphasis effect="bold">Principle: </emphasis>
+        </para>
+        <para id="id1168472194969">The disaster mitigation, management and recovery process should accept and utilize technology and its many incredible possibilities in making information and data readily available to anyone.</para>
+        <para id="id1168462322476">
+          <emphasis effect="bold">Key Terms:</emphasis>
+        </para>
+        <para id="id1168441319291">Global Positioning Systems (GPS): is a space-based global navigation satellite system (GNSS) that provides location and time information in all weather and at all times and anywhere on or near the Earth when and where there is an unobstructed line of sight to four or more GPS satellites.</para>
+        <para id="id1168454868920">Geographic Information System (GIS) or geospatial information system: is a computer system that captures, stores, analyzes, manages and presents data with reference to geographic location data. It is a merging of cartography, statistical analysis and database technology.</para>
+        <para id="id1168440139248">
+          <emphasis effect="bold">Reading Quote:</emphasis>
+        </para>
+        <para id="id1168441308582">“Recent areas of application of GIS methods in humanitarian emergencies include hazard, vulnerability, and risk assessment; rapid assessment and survey methods; disease distribution and outbreak investigations; planning and implementation of health information systems; data and programme integration; and programme monitoring and evaluation” (Disasters, 2003, pg.127).</para>
+        <para id="id1168453496825">“In theory, if responders have perfect information, they find victims and assist them immediately. However, in practice, rescue agents do not know exactly who needs what kinds of help in which locations” (Disasters and Response Systems, 299).</para>
+        <para id="id1168447121972">
+          <emphasis effect="bold">Justification of Principle: </emphasis>
+        </para>
+        <para id="id1168444792850">The use of technology for the collection of information and data management could help agencies coordinate their efforts and make sure that all their bases are covered because it connects people right away and there is no waiting around for a response or for the phone lines and cell phone towers to be repaired.</para>
+        <para id="id1168444632370">
+          <emphasis effect="bold">Relevance to Social Work: </emphasis>
+        </para>
+        <para id="id1168439809279">The agencies and first responders in disasters could benefit from the use of technology to do assessments and get help in real time. It also reduces the amount of paper used on site that has a potential to get lost in the shuffle. Global Positioning Systems (GPS) use satellites and can get a signal from anywhere around the world or down the block. The use of Geographic Information System (GIS) could also helps with disaster preparation and further disaster management research which could be aided or conducted by a social worker. </para>
+        <para id="id1168472449368">
+          <emphasis effect="bold">Illustration:</emphasis>
+<figure id="jessi1">
+  <media id="jessia" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/12-1.JPG"/>
+  </media>
+  <caption>
+     Technologies can connect anyone from anywhere at any time even if they are halfway around the world
+  </caption>
+</figure>
+<figure id="jessi2">
+  <media id="jessib" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/12-2.JPG"/>
+  </media>
+  <caption>
+     Radios have also advanced with cranks and satellite tuning
+  </caption>
+</figure>
+<figure id="jessi3">
+  <media id="jessic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/12-3.JPG"/>
+  </media>
+  <caption>
+    PDAs and other devices have provided information to people in real time  
+  </caption>
+</figure>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>
